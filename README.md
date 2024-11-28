@@ -1,6 +1,6 @@
  # Analyzing BayerLeverkusen Success: Bundesliga Dashboard and Scraping Project
 
-This project provides an automated way to scrape Bundesliga statistics and visualize insights into teams' performances through a dashboard. The scraped data is processed and displayed using Tableau.
+This project provides an automated way to scrape Bundesliga statistics and visualize insights into teams' performances through a dashboard. The scraped data is processed and displayed using Tableau. [Interactive Dashboard](https://public.tableau.com/app/profile/jose.baixauli/viz/BayernLeverkusensUnbeatenSeason/Dashboard1?publish=yes)
 
 ![Bundesliga Dashboard](Dashboard%201.png)
 
