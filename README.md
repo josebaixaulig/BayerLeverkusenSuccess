@@ -93,7 +93,6 @@ Compares save percentages and defensive penalties for all Bundesliga teams.
 ---
 
 ## Acknowledgments
-
 - Data Source: [FBref](https://fbref.com/)
 - Visualization: Created using Tableau
 - Python Libraries: `pandas`
